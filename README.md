@@ -1,7 +1,7 @@
 # ReadMe
  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  this will allow you to generate a readme file. And help developers save time so they can work more on code.Simple and easy to use so if you 
+  This will allow you to generate a readme file. And help developers save time so they can work more on code.Simple and easy to use so if you 
   are unsure on how to create a Readme.md file this will help.
 
   ## Table Of Contents
