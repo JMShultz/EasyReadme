@@ -20,10 +20,11 @@
   After you install the packages using npm install you will be able to run the project.
 
 
-https://github.com/JMShultz/ReadmeGenerator/assets/149431333/56e930fb-f50e-40ad-9019-5bc46b12f4b2
-
-
   
+
+https://github.com/JMShultz/ReadmeGenerator/assets/149431333/700e2df3-14cd-4647-b9b8-c0c30aadfc9c
+
+
   
   ## License
   MIT
